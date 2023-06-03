@@ -109,7 +109,7 @@ h5{
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin: 0;
+  margin: 150px;
   color: #666666;
   font-size: 38px;
   line-height: 50px;
@@ -120,7 +120,7 @@ ul, li, a {
   list-style: none;
 }
 p{
-  color: antiquewhite;
+    color: #666666;
 }
 .contactos{
   display: flex;
@@ -141,5 +141,12 @@ p{
   color: #666666;
   font-size: 38px;
   line-height: 50px;
+}
+.direito{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666666;
+  margin: 20px ;
 
 }
