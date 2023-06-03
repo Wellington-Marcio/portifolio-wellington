@@ -14,9 +14,11 @@ body {
  }
 header {
   display: flex;
+  margin: 50px;
   text-decoration-color: aquamarine;
   justify-content: space-between;
   padding: 0 150px;
+  
 }
 footer{ 
   display: flex;
@@ -83,7 +85,7 @@ h5{
   list-style: none;
   text-decoration: none;
   gap: 30px;
-}
+ }
 .navegation-in > li {
   color: #666666;
   font-weight: 500;
@@ -113,6 +115,31 @@ h5{
   line-height: 50px;
 
 }
+ul, li, a {
+  text-decoration: none;
+  list-style: none;
+}
 p{
   color: antiquewhite;
+}
+.contactos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 200px;
+  color: #666666;
+  font-size: 38px;
+  line-height: 50px;
+}
+.construcao{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 200px;
+  color: #666666;
+  font-size: 38px;
+  line-height: 50px;
+
 }
