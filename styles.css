@@ -10,8 +10,8 @@ body {
   background-clip:text;
   color:transparent;
   -webkit-background-clip: text;
-  font-size: 50px;
-}
+  font-size: 35px;
+ }
 header {
   display: flex;
   text-decoration-color: aquamarine;
