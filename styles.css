@@ -14,10 +14,13 @@ body {
 }
 header {
   display: flex;
-  margin: 50px;
+  position: fixed;
+  margin: 0 50px;
   text-decoration-color: aquamarine;
   justify-content: space-between;
-  padding: 0 150px;
+  padding: 20px 150px;
+  width: 1200px;
+  background: black;
 }
 footer {
   display: flex;
