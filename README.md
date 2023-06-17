@@ -1,8 +1,8 @@
-# portifolio-wellington
+# Portifolio-Wellington
 
-<h1>This is my Portifolio in construction</h1>
+<h1>My Portifolio</h1>
   
-<h3>this project is in the making of construction, used :</h3>
+<h3>This project is in the making of construction, used :</h3>
 
 <ul>
   <li> Html</li>
